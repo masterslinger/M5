@@ -1,4 +1,6 @@
-EX-21-POINTERS
+# Syed Abu Hanifa. L
+# 212224040346
+# EX-21-POINTERS
 # AIM:
 Write a C program to convert a 23.65 into 25 using pointer
 
